@@ -1,4 +1,4 @@
-#This is a Web automation framework using Selenium Java
+## This is a Web automation framework using Selenium Java
 
 The website used for automation testing is https://opensource-demo.orangehrmlive.com/
 
@@ -15,7 +15,7 @@ Concepts used:
 * Design Pattern: Singleton design pattern
 * Report: ExtentReports
 
-![Sample report](./images/ExtentReportSample.png)
+
 
 
 
